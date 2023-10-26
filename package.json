@@ -1,6 +1,6 @@
 ﻿{
   "name": "jp.co.tis.extreal.integration.multiplay.ngo.webrtc",
-  "version": "1.0.0-next.1",
+  "version": "1.0.0-next.2",
   "displayName": "Extreal.Integration.Multiplay.NGO.WebRTC",
   "unity": "2022.3",
   "author": {
@@ -14,7 +14,7 @@
     "jp.co.tis.extreal.core.common": "1.1.0-next.4",
     "jp.co.tis.extreal.integration.web.common": "1.0.0-next.5",
     "jp.co.tis.extreal.integration.p2p.webrtc": "1.0.0-next.10",
-    "jp.co.tis.extreal.integration.multiplay.ngo": "1.2.0-next.14"
+    "jp.co.tis.extreal.integration.multiplay.ngo": "1.2.0-next.15"
   },
   "samples": [
     {
