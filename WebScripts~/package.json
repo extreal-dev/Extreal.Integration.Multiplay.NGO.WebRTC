@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/extreal-dev/Extreal.Integration.Multiplay.NGO.git",
+    "url": "https://github.com/extreal-dev/Extreal.Integration.NGO.WebRTC.git",
     "directory": "WebScripts~"
   },
   "author": {
@@ -31,7 +31,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "@extreal-dev/extreal.integration.p2p.webrtc": "1.0.0",
-    "@extreal-dev/extreal.integration.web.common": "1.0.0"
+    "@extreal-dev/extreal.integration.p2p.webrtc": "^1.0.0",
+    "@extreal-dev/extreal.integration.web.common": "^1.0.0"
   }
 }
