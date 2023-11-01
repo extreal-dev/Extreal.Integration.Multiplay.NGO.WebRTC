@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@extreal-dev/extreal.integration.multiplay.ngo.webrtc": "../../../../../../Packages/Extreal.Integration.Multiplay.NGO/WebScripts~/",
+    "@extreal-dev/extreal.integration.multiplay.ngo.webrtc": "../../../../../../Packages/Extreal.Integration.Multiplay.NGO.WebRTC/WebScripts~/",
     "@extreal-dev/extreal.integration.p2p.webrtc": "file:../../../../../../Packages/Extreal.Integration.P2P.WebRTC/WebScripts~/"
   },
   "devDependencies": {
